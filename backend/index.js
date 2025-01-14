@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 app.use(cors());
 
-connect("mongodb+srv://abhradeep:newsapp1234@cluster0.ykhqkks.mongodb.net");
+connect("mongodb+srv://<'username'>:<'password'>@cluster0.ykhqkks.mongodb.net");
 app.use("/api/v1", rootRouter);
 
 
