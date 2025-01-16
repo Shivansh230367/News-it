@@ -1,6 +1,6 @@
-# NewsApp
+# News-it
 
-NewsApp aggregates news via the News API, offering JSON search results from 150,000+ sources. Its React.js frontend ensures seamless browsing. User authentication provides secure access, enabling account creation and login. Bookmarking lets users save articles, stored in MongoDB. Adding notes personalizes news consumption. Node.js and Express.js power the backend, managing authentication, data storage, and server-side operations. Overall, NewsApp delivers a user-friendly, feature-rich news experience, combining diverse content aggregation with intuitive navigation and personalization options.
+News-it aggregates news via the News API, offering JSON search results from 150,000+ sources. Its React.js frontend ensures seamless browsing. User authentication provides secure access, enabling account creation and login. Bookmarking lets users save articles, stored in MongoDB. Adding notes personalizes news consumption. Node.js and Express.js power the backend, managing authentication, data storage, and server-side operations. Overall, News-it delivers a user-friendly, feature-rich news experience, combining diverse content aggregation with intuitive navigation and personalization options.
 
 ## Tech Stack
 
