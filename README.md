@@ -26,10 +26,6 @@ Additional Libraries and Frameworks: Mongoose, Zod, Recoil, TailwindCSS, Axios
 
 ## Run Locally
 
-Clone the project
-```bash
-https://github.com/AbhradeepMukherjee/NewsApp.git
-```
 
 Go to the project directory
 ```bash
